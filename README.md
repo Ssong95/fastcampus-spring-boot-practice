@@ -1,1 +1,1 @@
-pastcampus-spring-boot-practice
+fastcampus-spring-boot-practice
